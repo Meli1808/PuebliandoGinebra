@@ -33,12 +33,12 @@
 
     <Button
         android:id="@+id/botonhoteles"
+        android:background="@drawable/botonredondo"
         app:layout_constraintTop_toBottomOf="@+id/titulo"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintVertical_bias="0.1"
-        android:backgroundTint="@color/steelblue"
         android:text="HOTELES"
         android:layout_marginHorizontal="30dp"
         android:layout_width="match_parent"
@@ -65,7 +65,7 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintVertical_bias="0.1"
         android:backgroundTint="@color/steelblue"
-        android:text="RESTAURANTES"
+        android:text="SITIOS"
         android:layout_marginHorizontal="30dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
