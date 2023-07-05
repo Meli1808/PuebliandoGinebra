@@ -3,6 +3,7 @@ package com.example.puebliandoapp;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.view.Menu;
 import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
@@ -32,5 +33,39 @@ public class Home extends AppCompatActivity {
             }
         });
 
+        botonRestaurantes.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Toast.makeText(Home.this, "Play Click", Toast.LENGTH_SHORT).show();
+            }
+        });
+
+        botonSitios.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Toast.makeText(Home.this, "Play Click", Toast.LENGTH_SHORT).show();
+            }
+        });
     }
+    public boolean onCreateOptionsMenu(Menu menu){
+        getMenuInflater().inflate(R.menu.menu,menu);
+        return true;
+    }
+
+    public boolean onOptionsItemSelected(){
+        int itemSeleccionado=item.getItemId();
+        switch (itemSeleccionado){
+
+            case (R.id.opcion1):
+                break;
+            case (R.id.opcion2):
+                break;
+            case (R.id.opcion3):
+                break;
+            case (R.id.opcion4):
+                break;
+        }
+    }
+
+    return super.onOptionsItemSelected(item);
 }

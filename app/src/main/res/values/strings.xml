@@ -1,6 +1,17 @@
 <resources>
     <string name="app_name">PuebliandoAPP</string>
-    <string name="resenahoteles">Considerando que la libertad, la justicia y la paz en el mundo tienen por base el reconocimiento de la dignidad intrinseca y de los derechos iguales e inalienables de todos los miembros de la familia humana;
-        Considerando que el desconocimiento y el menosprecio de los derechos humanos han originado actos de barbarie ultrajantes para la conciencia de la humanidad, y que se ha proclamado, como la aspiracion mas elevada del hombre, el advenimiento de un mundo en que los seres humanos, liberados del temor y de la miseria, disfruten de la libertad de palabra y de la libertad de creencias;
+    <string name="resenahoteles">Ginebra, en el Valle del Cauca, ofrece una variedad de hoteles y una estadia excepcional. Desde acogedores hostales hasta lujosos resorts, hay opciones para todos los gustos y presupuestos.
+        Los hoteles en Ginebra se destacan por su hospitalidad y comodidades modernas, asegurando una experiencia de alojamiento placentera. Ademas, la ubicacion estrategica de la ciudad permite explorar hermosos paisajes naturales y disfrutar de actividades al aire libre.
+        Con su rica cultura y tradiciones, Ginebra ofrece tambien festivales locales, gastronomia deliciosa y la calidez de su gente. Sin duda, Ginebra es un destino perfecto para una estadia inolvidable. </string>
+ <string name="resenarestaurantes">Los restaurantes en Ginebra, Valle del Cauca, ofrecen una experiencia culinaria excepcional. Con una amplia variedad de opciones gastronomicas, desde cocina tradicional colombiana hasta platos internacionales, los visitantes pueden disfrutar de sabores autenticos y deliciosos.
+     Los restaurantes en esta encantadora ciudad se caracterizan por su ambiente acogedor y servicio amigable, brindando una experiencia gastronomica unica. Ya sea que desees probar platos tipicos como la bandeja paisa o explorar opciones vegetarianas y veganas, los restaurantes en Ginebra tienen algo para satisfacer todos los gustos.
+     Deleitate con la diversidad culinaria y disfruta de una experiencia gastronomica inolvidable en los encantadores restaurantes de Ginebra.</string>
+    <string name="resenasitios">
+
     </string>
+    <string name="opcion1">Español</string>
+    <string name="opcion2">Ingles</string>
+    <string name="opcion3">Italiano</string>
+    <string name="opcion4">Acerca de</string>
 </resources>
+
