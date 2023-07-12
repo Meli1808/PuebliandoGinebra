@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">PuebliandoAPP</string>
-    <string name="resenahoteles"> Ginebra, in the Valle del Cauca, offers a variety of hotels and an exceptional stay. From cozy hostels to luxurious resorts, there are options for every taste and budget.
-        The hotels in Ginebra stand out for their hospitality and modern amenities, ensuring a pleasant accommodation experience.
-        Additionally, the strategic location of the city allows for exploring beautiful natural landscapes and enjoying outdoor activities. With its rich culture and traditions, Ginebra also offers local festivals, delicious cuisine, and the warmth of its people. Undoubtedly, Ginebra is a perfect destination for an unforgettable stay.</string>
-    <string name="resenarestaurantes">The restaurants in Ginebra, Valle del Cauca, offer an exceptional culinary experience. With a wide variety of gastronomic options, from traditional Colombian cuisine to international dishes, visitors can enjoy authentic and delicious flavors.
-        The restaurants in this charming city are known for their cozy atmosphere and friendly service, providing a unique dining experience. Whether you want to try typical dishes like bandeja paisa or explore vegetarian and vegan options, the restaurants in Ginebra have something to satisfy every palate.
-        Indulge in the culinary diversity and enjoy an unforgettable dining experience in the charming restaurants of Ginebra.</string>
-    <string name="resenasitios">
+    <string name="resenahoteles">The hotels in this beautiful region offer a cozy experience and exceptional services for an unforgettable stay.</string>
+    <string name="resenarestaurantes">The restaurants in this charming region offer delicious cuisine with authentic dishes and an exceptional culinary experience.</string>
+    <string name="resenasitios">Exploring the charming places and sites of this region will immerse you in its natural beauty and rich culture.</string>
 
-    </string>
     <string name="opcion1">Spanish</string>
     <string name="opcion2">English</string>
     <string name="opcion3">Italian</string>

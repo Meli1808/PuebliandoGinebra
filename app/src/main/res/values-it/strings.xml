@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">PuebliandoAPP</string>
-    <string name="resenahoteles">Ginevra, nella Valle del Cauca, offre una varieta di hotel e un soggiorno eccezionale. Dai confortevoli ostelli ai lussuosi resort, ci sono opzioni per ogni gusto e budget. Gli hotel a Ginevra si distinguono per l ospitalita e i comfort moderni, garantendo un esperienza di soggiorno piacevole.
-        Inoltre, la posizione strategica della citta consente di esplorare splendidi paesaggi naturali e di godere di attivita all aria aperta. Con la sua ricca cultura e tradizioni, Ginevra offre anche festival locali, cucina deliziosa e il calore delle persone.
-        Senza dubbio, Ginevra e una destinazione perfetta per un soggiorno indimenticabile. </string>
-    <string name="resenarestaurantes">I ristoranti a Ginebra, Valle del Cauca, offrono un esperienza culinaria eccezionale. Con una vasta gamma di opzioni gastronomiche, dalla cucina tradizionale colombiana ai piatti internazionali, i visitatori possono gustare sapori autentici e deliziosi.
-        I ristoranti in questa affascinante citta sono noti per la loro atmosfera accogliente e il servizio amichevole, offrendo un esperienza culinaria unica.
-        Che tu voglia provare piatti tipici come la bandeja paisa o esplorare opzioni vegetariane e vegane, i ristoranti a Ginebra hanno qualcosa per soddisfare ogni palato. Goditi la diversita culinaria e vivi un esperienza gastronomica indimenticabile nei suggestivi ristoranti di Ginebra.</string>
-    <string name="resenasitios">
+    <string name="resenahoteles">Gli hotel in questa bellissima regione offrono un esperienza accogliente e servizi eccezionali per un soggiorno indimenticabile. </string>
+    <string name="resenarestaurantes">I ristoranti di questa incantevole regione offrono una deliziosa gastronomia con piatti autentici e un esperienza culinaria eccezionale.</string>
+    <string name="resenasitios">Esplorare i luoghi incantevoli di questa regione ti immergera nella sua bellezza naturale e nella sua ricca cultura.</string>
 
-    </string>
     <string name="opcion1">Spagnolo</string>
     <string name="opcion2">Inglese</string>
     <string name="opcion3">Italiano</string>

@@ -2,11 +2,14 @@ package com.example.puebliandoapp;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
+import android.view.MenuItem;
+
 
 public class Home extends AppCompatActivity {
 
@@ -29,21 +32,24 @@ public class Home extends AppCompatActivity {
         botonHoteles.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Toast.makeText(Home.this, "Play Click", Toast.LENGTH_SHORT).show();
+                Intent intentHoteles=new Intent(Home.this,Hoteles.class);
+                startActivity(intentHoteles);
             }
         });
 
         botonRestaurantes.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Toast.makeText(Home.this, "Play Click", Toast.LENGTH_SHORT).show();
+                Intent intentRestaurantes=new Intent(Home.this,Restaurantes.class);
+                startActivity(intentRestaurantes);
             }
         });
 
         botonSitios.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Toast.makeText(Home.this, "Play Click", Toast.LENGTH_SHORT).show();
+                Intent intentSitios=new Intent(Home.this,Sitios.class);
+                startActivity(intentSitios);
             }
         });
     }
@@ -52,20 +58,29 @@ public class Home extends AppCompatActivity {
         return true;
     }
 
-    public boolean onOptionsItemSelected(){
+    public boolean onOptionsItemSelected(MenuItem item){
         int itemSeleccionado=item.getItemId();
-        switch (itemSeleccionado){
 
-            case (R.id.opcion1):
-                break;
-            case (R.id.opcion2):
-                break;
-            case (R.id.opcion3):
-                break;
-            case (R.id.opcion4):
-                break;
-        }
+
+            if(itemSeleccionado==R.id.opcion1){
+
+            }else if(itemSeleccionado==R.id.opcion2){
+
+            }else if(itemSeleccionado==R.id.opcion3){
+
+            }else if(itemSeleccionado==R.id.opcion4){
+
+            }
+
+
+
+
+
+        return super.onOptionsItemSelected(item);
     }
 
-    return super.onOptionsItemSelected(item);
+    public void cambiarIdioma(String idioma){
+
+    }
 }
+
